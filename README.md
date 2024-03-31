@@ -13,4 +13,4 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br/>
 
-Cursando Analise e Desenvolvimento de Sistemas 1º Semestre Impacta
+Cursando Analise e Desenvolvimento de Sistemas 3º Semestre Impacta
