@@ -1,4 +1,4 @@
-### Eai! Me chamo Matheus Cabral 😁
+### Matheus Cabral
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-micael-cabral-dos-santos-aab51019a/)
 
